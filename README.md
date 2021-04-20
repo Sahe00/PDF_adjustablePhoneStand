@@ -17,7 +17,10 @@ Electrical components:
 - 1 x TEPT 5700 photodiode and
 - 2 x servomotors.
 
+Tinkercad sketch of the wiring: https://www.tinkercad.com/things/5m14AujjH7h
+
 Mechanical parts:
 1. A box containing all the electronics. Lasercut object designed using Inkscape.
 2. U-Shaped part to connect the phone holder and the box.
 3. The phone holder.
+
