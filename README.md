@@ -5,16 +5,17 @@ Description:
 A phone holder which can be tilted by a potentiometer. Three LED lights indicating the amount of ambient light exposed on the surface of the phone holder.
 
 Electrical components:
-1 x Arduino UNO,
-1 x breadboard,
-jumper cables,
-4 x AAA batteries and battery holder,
-3 x 230Ω resistors,
-1 x 10kΩ resistor,
-1 x 10kΩ potentiometer,
-3 x LED,
-1 x TEPT 5700 photodiode and
-2 x servomotors.
+- Arduino UNO,
+- breadboard,
+- jumper cables,
+- 4 x AAA batteries,
+- battery holder,
+- 3 x 230Ω resistors,
+- 1 x 10kΩ resistor,
+- 1 x 10kΩ potentiometer,
+- 3 x LED,
+- 1 x TEPT 5700 photodiode and
+- 2 x servomotors.
 
 Mechanical parts:
 1. A box containing all the electronics. Lasercut object designed using Inkscape.
