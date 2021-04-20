@@ -2,7 +2,7 @@
 Course project (Principles of Digital Fabrication), Spring 2021
 
 Description:
-
+A phone holder which can be tilted by a potentiometer. Three LED lights indicating the amount of ambient light exposed on the surface of the phone holder.
 
 Electrical components:
 1 x Arduino UNO,
@@ -14,6 +14,9 @@ jumper cables,
 1 x 10kΩ potentiometer,
 3 x LED,
 1 x TEPT 5700 photodiode and
-2 x servomotors
+2 x servomotors.
 
 Mechanical parts:
+1. A box containing all the electronics. Lasercut object designed using Inkscape.
+2. U-Shaped part to connect the phone holder and the box.
+3. The phone holder.
