@@ -1,6 +1,10 @@
 # adjustable-phone-stand
 Course project (Principles of Digital Fabrication), Spring 2021
 
+![image](https://user-images.githubusercontent.com/72760619/116973204-d90ce300-acc4-11eb-8ecd-da02df99f0a9.png)
+
+
+
 Description:
 A phone holder which can be tilted by rotating a potentiometer. Three LED lights indicating the amount of ambient light exposed on the surface of the phone holder.
 
