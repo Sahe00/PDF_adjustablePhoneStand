@@ -20,7 +20,7 @@ Electrical components:
 Tinkercad sketch of the wiring: https://www.tinkercad.com/things/5m14AujjH7h
 
 Mechanical parts:
-1. A box containing all the electronics. Lasercut object designed using Inkscape.
-2. U-Shaped part to connect the phone holder and the box.
-3. The phone holder.
+1. A box containing all the electronics designed using Inkscape. (Lasercut)
+2. U-Shaped part connected to the servomotors to adjust the angle of the phone holder. (3D printed)
+3. The phone holder with a hinge. (3D printed)
 
