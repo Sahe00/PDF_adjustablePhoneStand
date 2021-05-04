@@ -2,7 +2,7 @@
 Course project (Principles of Digital Fabrication), Spring 2021
 
 Description:
-A phone holder which can be tilted by a potentiometer. Three LED lights indicating the amount of ambient light exposed on the surface of the phone holder.
+A phone holder which can be tilted by rotating a potentiometer. Three LED lights indicating the amount of ambient light exposed on the surface of the phone holder.
 
 Electrical components:
 - Arduino UNO,
