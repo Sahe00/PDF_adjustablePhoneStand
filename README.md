@@ -28,3 +28,10 @@ Mechanical parts:
 2. U-Shaped part connected to the servomotors to adjust the angle of the phone holder. (3D printed)
 3. The phone holder with a hinge. (3D printed)
 
+CREDITS:
+Axel Wester,
+Santeri Heikkinen,
+Tuomas Peltoketo,
+Helena Helisten
+
+FINAL RATING: 5
